@@ -1,0 +1,4 @@
+C:\Users\Hp\source\repos\GenericType\GenericType\obj\Debug\net6.0\GenericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GenericType\GenericType\obj\Debug\net6.0\GenericType.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GenericType\GenericType\obj\Debug\net6.0\GenericType.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GenericType\GenericType\obj\Debug\net6.0\GenericType.csproj.CoreCompileInputs.cache
